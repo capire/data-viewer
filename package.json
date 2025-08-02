@@ -1,9 +1,10 @@
 {
   "name": "@capire/data-viewer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A generic browser for data",
+  "repository": "https://github.com/capire/data-viewer",
   "dependencies": {
-    "@sap/cds": ">=5.0.4"
+    "@sap/cds": ">=9"
   },
   "files": [
     "app",
