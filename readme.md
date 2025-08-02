@@ -4,6 +4,7 @@ This is a CAP plugin which adds a generic browser for data to your application.
 It is used in the `bookstore` sample.
 
 > [!CAUTION]
+>
 > This is just a sample, not intended for production use. It is meant to demonstrate how to create a CAP plugin and how to use it in your application. It is not optimized for performance or security.
 
 
